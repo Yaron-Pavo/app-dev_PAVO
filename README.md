@@ -1,5 +1,7 @@
-# app-dev_PAVO
-My First Repository
-# The Bee Movie is the best movie
-The Bee movie is a weird dreamworks movie
-
+# About You
+I am Yaron
+I like Games and Strategy Games
+## My Favorite Movie
+I Like Wall-E and Lord of the Rings
+## My Plans
+Become better at programming and soft skills
